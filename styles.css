@@ -10,4 +10,19 @@ h2{
 
 p{
     font-size: 18px;
+    color: white;
+}
+
+.zukoimg{
+    width: 450px;
+    height: 300px;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-image: url('images/bg-img.png');
+    background-size: cover;
+    background-attachment: fixed;
 }
